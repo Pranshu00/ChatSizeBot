@@ -6,7 +6,7 @@
 
 Demo in telegram: [@ChatSizeBot](https://t.me/ChatSizeBot)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HuzunluArtemis/ChatSizeBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ## Features
 
